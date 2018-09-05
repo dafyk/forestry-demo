@@ -7,6 +7,5 @@ publish_date: 2018-09-04 22:00:00 +0000
 menu:
   footer:
     weight: 1
-published: false
 
 ---
