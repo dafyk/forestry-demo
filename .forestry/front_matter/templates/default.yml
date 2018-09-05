@@ -18,6 +18,7 @@ fields:
   name: text-filed_name
   label: text-filed test
   description: nejaky text field
+  default: test field k dispo
 - type: datetime
   name: publish_date
   label: Publish Date
