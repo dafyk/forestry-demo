@@ -14,11 +14,16 @@ fields:
   description: A short description of the page
   config:
     required: true
+- type: text
+  name: text-filed_name
+  label: text-filed test
+  description: nejaky text field
 - type: datetime
   name: publish_date
   label: Publish Date
   config:
     required: true
+  hidden: true
 - type: text
   name: layout
   label: layout
